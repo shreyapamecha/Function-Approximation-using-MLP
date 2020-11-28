@@ -1,2 +1,6 @@
 # Function-Approximation-using-MLP
-I'm trying to approximate the Egg Holder function using Neural Network by incorporating only one hidden layer.
+In this, I'm approximating the Egg Holder function using Neural Network.
+
+The design of the network has only one hidden layer and the number of neurons are kept as low as possible to give a reasonable approximation. 
+
+For further explanation, kindly watch this YouTube video: https://youtu.be/ilNZH5dtVeE
